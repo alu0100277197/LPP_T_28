@@ -1,1 +1,26 @@
 Trabajo en equipo con git
+
+¿Cuál es la diferencia entre compilación e interpretación?
+
+La diferencia entre compilación e interpretación radica en que la
+interpretación traduce el código de programación al código nativo de la
+máquina, a veces en tiempo real, mientras que la compilación únicamente genera
+el ejecutable en el código nativo de la máquina, que luego deberá ser
+ejecutado por el usuario. La ventaja de la compilación es la rapidez al
+ejecutar y la posibilidad de suministrar el ejecutable sin el código de alto
+nivel, mientras que la interpretación permite modificar (y por ello mejorar
+potencialmente) el programa sea cual sea la máquina en la que se encuentre,
+siempre que disponga de un intérprete.
+
+¿Cuál es la principal diferencia entre el contenido del fichero helloWorld.sh
+y helloWorld.rb?
+
+¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+
+La principal diferencia es que el primero está escrito en código bash y el
+otro en código ruby, lo que implica que cada uno usa sus propias
+instrucciones.
+
+La primera línea de helloWorld.sh indica a la shell que el intérprete ha de
+ser el existente en /bin/sh
+
